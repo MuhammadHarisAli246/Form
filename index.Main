@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Form/CV/Periodic Table</title>
+</head>
+<center>
+    <h1>Index Page</h1>
+<body bgcolor="Slate Gray ">
+    <a href="/form.html">Form</a>
+    <br>
+    <a href="/periodictable.html">Periodic Table</a>
+    <br>
+    <a href="/Gallery.html">Gallery</a>
+    <br>
+    <a href="/cv.html">CV</a>
+
+</body>
+</center>
+</html>
